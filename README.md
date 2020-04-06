@@ -4,7 +4,7 @@ Automate playing a grandfather clock's chimes using a raspberry pi and
 some stepper motors.
 
 This is part of my ongoing project to build a working [Weasley
-Clock][https://github.com/randomstring/WeasleyClock). That project is
+Clock](https://github.com/randomstring/WeasleyClock). That project is
 now feature complete (notice I didn't say "done") and installed in my
 home. 
 
